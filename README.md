@@ -8,7 +8,7 @@ Goals:
 - Obtain a basic introduction to programming the Digilent Nexys-A7100T FPGA board using Xilinx Vivado software tools.
 - Demonstrate understanding of a Full-adder circuit by coding and implementing it on the Digilent Nexys-A7100T FPGA board.
 
-[Lab 2: Sum of Minterms Circuit Implementation on Nexys Board](
+[Lab 2: Sum of Minterms Circuit Implementation on Nexys Board](https://github.com/mdkaba/COEN313/tree/main/Lab%202%20-%20COEN313)
 
 Goals:
 - Demonstrate understanding of a sum of minterms circuit by coding it in VHDL.
