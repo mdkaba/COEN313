@@ -16,7 +16,7 @@ Goals:
 - Simulate the VHDL code to generate a truth table of the circuit's output.
 - Program the sum of minterms circuit to the Nexys board using Xilinx Vivado software.
 
-[Lab 3: Sign-Magnitude to Two's Complement Converter](
+[Lab 3: Sign-Magnitude to Two's Complement Converter](https://github.com/mdkaba/COEN313/tree/main/Lab%203%20-%20COEN313)
 
 Goals:
 - Gain experience in using VHDL combination processes.
