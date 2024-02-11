@@ -1,2 +1,2 @@
-# COEN313
+# COEN 313
 Digital Systems Design
