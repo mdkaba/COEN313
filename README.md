@@ -1,7 +1,7 @@
 # COEN 313
 Digital Systems Design
 
-[Lab 1: VHDL Simulation and FPGA Programming](
+[Lab 1: VHDL Simulation and FPGA Programming](https://github.com/mdkaba/COEN313/tree/main/Lab%201%20-%20COEN313)
 
 Goals:
 - Gain familiarity with VHDL simulation software tools such as ModelSim, including the utilization of features like DO files.
