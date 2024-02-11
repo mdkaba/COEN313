@@ -31,7 +31,7 @@ Goals:
 - Utilize clocked processes to implement the shift register and logic for maximum and minimum value detection.
 - Implement output registers to store the maximum and minimum values from the shift register file.
 
-[Lab 5: ASM Chart and Control Unit/Datapath Design in VHDL](
+[Lab 5: ASM Chart and Control Unit/Datapath Design in VHDL](https://github.com/mdkaba/COEN313/tree/main/Lab%205%20-%20COEN313)
 
 Goals:
 - Familiarize with the ASM chart and control unit/datapath design methodology.
