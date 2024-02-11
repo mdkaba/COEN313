@@ -23,7 +23,7 @@ Goals:
 - Design a combinational logic circuit to convert a 4-bit signed integer in sign-magnitude representation into two's complement notation.
 
 
-[Lab 4: Shift Register and Maximum/Minimum Value Detection in VHDL](
+[Lab 4: Shift Register and Maximum/Minimum Value Detection in VHDL](https://github.com/mdkaba/COEN313/tree/main/Lab%204%20-%20COEN313)
 
 Goals:
 - Familiarize with clocked processes and registers in VHDL.
